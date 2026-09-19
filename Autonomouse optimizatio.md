@@ -1,4 +1,4 @@
-#Notes from Autonomouse lecture, first fair 2026
+# Notes from Autonomouse lecture, first fair 2026
 
 Finding the points to optimize is harder than actually optimizing, optimizing in and of itself is just tedus.
 
