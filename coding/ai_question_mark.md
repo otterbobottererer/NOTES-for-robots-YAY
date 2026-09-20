@@ -18,7 +18,9 @@ requirements
 
 design
 
-implementation  
+implementation
 
 integration
+
+“AI is like an incredibly fast, highly competent intern.” - AI
 
